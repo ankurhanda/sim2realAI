@@ -16,8 +16,8 @@ S
 
 * [SceneNet](robotvault.bitbucket.io)
 * [SceneNet RGB-D](https://robotvault.bitbucket.io/scenenet-rgbd.html)
+* [Stanford 2D-3D-Semantics Dataset](http://buildingparser.stanford.edu/dataset.html)
 * [SUN CG](http://suncg.cs.princeton.edu/)
-
 
 
 **Indoor Environments that support navigation and interaction with objects**
