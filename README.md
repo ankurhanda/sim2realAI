@@ -38,6 +38,7 @@ G
 H
 
 * [Home Platform](https://github.com/HoME-Platform/home-platform)
+* [House3d](https://github.com/facebookresearch/House3D)
 
 M
 
@@ -56,4 +57,16 @@ U
 V
 
 * [Virtual Home](http://virtual-home.org/)
+
+**Simulators for driving/outdoor navigation**
+
+A
+
+* [AirSim](https://github.com/Microsoft/AirSim)
+
+C
+
+* [CARLA](http://carla.org/)
+
+
 
