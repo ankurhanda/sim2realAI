@@ -5,7 +5,7 @@
 I
 
 * [InteriorNet](https://interiornet.org/)
-
+* [ICL-NUIM](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html)
 
 P
 
@@ -20,6 +20,9 @@ S
 * [Stanford 2D-3D-Semantics Dataset](http://buildingparser.stanford.edu/dataset.html)
 * [SUN CG](http://suncg.cs.princeton.edu/)
 
+V
+
+* [VaFRIC](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/)
 
 **Indoor Environments that support navigation and interaction with objects**
 
