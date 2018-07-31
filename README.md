@@ -22,7 +22,7 @@ S
 
 V
 
-* [VaFRIC](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/)
+* [VaFRIC](https://www.doc.ic.ac.uk/~ahanda/HighFrameRateTracking/)
 
 **Indoor Environments that support navigation and interaction with objects**
 
