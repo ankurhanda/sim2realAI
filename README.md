@@ -57,3 +57,29 @@ V
 
 * [Virtual Home](http://virtual-home.org/)
 
+
+**Physics simulators**
+
+B
+
+* [Bullet](https://pybullet.org/wordpress/)
+
+D
+
+* [DART](https://dartsim.github.io/)
+
+F
+
+* [FleX](https://developer.nvidia.com/flex)
+
+G
+
+* [Gazebo](http://gazebosim.org/)
+
+M
+
+* [MuJoCo](http://www.mujoco.org/)
+
+O 
+
+* [ODE](http://www.ode.org/)
